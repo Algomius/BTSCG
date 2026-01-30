@@ -1,0 +1,44 @@
+J'ai analysé la performance de 524 fonds communs de placement sur les 2 dernières années et 105 font mieux que leur indice de référence. Calculer la proportion des fonds qui font mieux que leur indice de référence.
+
+-> Proportion =  105/524 = 0.2004 ou 20.04 % 
+
+Mes actions dans le luxe m'ont rapporté 420 euros de dividende, ce qui correspond à 18% des dividendes totaux encaissés cette année. A combien s'élèvent mes dividendes annuels ?
+
+-> Dividendes totaux = 420 / 0.18 = 2333.33
+
+J'ai calculé qu'il me faut 20h pour réviser le cours de math pour mon examen et j'en ai déjà réalisé 60%. Combien de temps ai-je déjà passé à réviser et combien de temps me reste t-il ?
+
+-> Temps passé = 20 * 0.6 = 12, il me reste donc 20 - 12 = 8h de révision
+
+Entre l'an dernier et cette année, ma facture d'électricité est passée de 1121 euros à 1257 euros. Calculer la variation absolue et le taux d'évolution sur un an.
+
+-> Variation absolue = 1257 - 1121 = 136 euros / Taux d'évolution = 136/1121 = 0.1213 ou 12.13%
+
+Le résultat net d'Ubisoft est passé de 103 100 000 euros en 2020 à 79 100 000 en 2021. Calculer la variation et le taux d'évolution sur un an.
+
+-> Variation globale = 79 100 000 - 103 100 000 = -24 000 000 / Taux d'évolution = -24 000 000 / 103 100 000 = -0.2328 = -23.28%
+
+La moyenne en math pour les CG l'an dernier était de 13,5. Cette année, elle a augmenté de 3,7%. Calculer la variation absolue et donnez la moyenne de cette année.
+
+-> Moyenne cette année = 13.5 * 1.037 = 14 Variation absolue : 14 - 13.5 = 0.5 
+
+Le prix d'un péage est multiplié par 1,4 par rapport à l'an dernier. Déduire le taux d'évolution.
+
+-> 1.4 = 1 + taux d'évolution donc taux d'évolution = 1.4 - 1 = 0.4 ou 40%
+
+Une boite de chocolat coute 36 euros le 14 février et le 15, ce prix est multiplié par 0,75. Déduire le taux d'évolution ainsi que le prix de la boite de chocolat le 15 février.
+
+-> Taux d'évolution : (1 + tévol) = 0.75 donc tévol = 0.75 - 1 = -0.25 ou -25%. Prix de la boite le 15 : 36 * 0.75 = 27 euros 
+
+Cette année, je vends mes tronçonneuses 186 euros, j'ai augmenté le prix par rapport à l'an dernier de 5,7%. Quel était le prix d'une tronçonneuse l'an dernier ?
+
+-> Prix de l'an dernier : px * 1.027 = 186 donc px = 186/1.027 = 175.97 euros
+
+L'an dernier le bénéfice de mon entreprise a augmenté de 9% et cette année il a baissé de 5%. Quel est le taux d'évolution global de mon bénéfice sur 2 ans
+
+-> taux d'évolution global = (1+0.09)*(1-0.05)-1 = 0.0355 ou 3.55%
+
+Voyons maintenant sur le long terme. Mon entreprise a enregistré les taux d'évolution de son bénéfice suivant sur les 4 dernières années : +4%, -7%, +11%, -9%. Quel est le taux d'évolution global du bénéfice sur 4 ans ?
+
+-> taux d'évolution global = (1+0.04)*(1-0.07)*(1+0.11)*(1-0.09) - 1 = -0.023 ou - 2.3%
+
